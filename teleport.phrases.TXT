@@ -1,0 +1,39 @@
+"Phrases"
+{
+	"PlayerName"
+	{
+		"#format" 	"{1:s}"
+		"en"		"Target: {1}"
+		"ru"		"Игрок: {1}"
+	}
+	
+	"MainTitle"
+	{
+		"en"		"Target teleport"
+		"ru"		"Телепорт по прицелу"
+	}
+	
+	"Selection"
+	{
+		"en" 		"Select a player"
+		"ru"		"Выбрать игрока"
+	}
+	
+	"TeleportToTheTargert"
+	{
+		"en"		"Teleport to the target"
+		"ru"		"Телепортировать к цели"
+	}
+	
+	"EmptyArrayOfPlayers"
+	{
+		"en"		"There is no one on the server"
+		"ru"		"На сервере сейчас нет игроков"
+	}
+	
+	"AdminMenuMsg"
+	{
+		"en"		"Teleport"
+		"ru"		"Телепорт"
+	}
+}
